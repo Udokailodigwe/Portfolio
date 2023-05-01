@@ -3,7 +3,7 @@ import { ImIcoMoon } from "react-icons/im";
 import { AiFillInstagram, AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import Image from "next/image";
 import udoka from "../public/udoka.jpg";
-import CountriesAppImage from "../public/countriesApplication.JPG";
+import CountriesAppImage from "../public/countries.JPG";
 import ecommerce from "../public/ecommerce.JPG";
 import memory from "../public/memory.png";
 import Pokemon from "../public/Pokedex2.JPG";
