@@ -6,7 +6,7 @@ import udoka from "../public/udoka.png";
 import ecommerce from "../public/ecommerce.png";
 import memory from "../public/memory.png";
 import CountriesAppImage from "../public/countries.png";
-import Pokemon from "../public/Pokedex2.png";
+import Pokemon from "../public/pokedex2.png";
 import chat from "../public/chat.png";
 import sd from "../public/sd.png";
 import db from "../public/db.png";
