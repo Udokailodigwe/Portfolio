@@ -5,12 +5,12 @@ import Image from "next/image";
 import udoka from "../public/udoka.jpg";
 import ecommerce from "../public/ecommerce.jpg";
 import memory from "../public/memory.png";
-import CountriesAppImage from "../public/countries.JPG";
-import Pokemon from "../public/Pokedex2.JPG";
+import CountriesAppImage from "../public/countries.jpg";
+import Pokemon from "../public/Pokedex2.jpg";
 import chat from "../public/chat.png";
-import sd from "../public/sd.JPG";
-import db from "../public/db.JPG";
-import devops from "../public/devops.JPG";
+import sd from "../public/sd.jpg";
+import db from "../public/db.jpg";
+import devops from "../public/devops.jpg";
 import { useState } from "react";
 
 export default function Home() {
