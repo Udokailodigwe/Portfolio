@@ -2,15 +2,15 @@ import Head from "next/head";
 import { ImIcoMoon } from "react-icons/im";
 import { AiFillInstagram, AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 import Image from "next/image";
-import udoka from "../public/udoka.jpg";
-import ecommerce from "../public/ecommerce.jpg";
+import udoka from "../public/udoka.png";
+import ecommerce from "../public/ecommerce.png";
 import memory from "../public/memory.png";
-import CountriesAppImage from "../public/countries.jpg";
-import Pokemon from "../public/Pokedex2.jpg";
+import CountriesAppImage from "../public/countries.png";
+import Pokemon from "../public/Pokedex2.png";
 import chat from "../public/chat.png";
-import sd from "../public/sd.jpg";
-import db from "../public/db.jpg";
-import devops from "../public/devops.jpg";
+import sd from "../public/sd.png";
+import db from "../public/db.png";
+import devops from "../public/devops.png";
 import { useState } from "react";
 
 export default function Home() {
