@@ -38,7 +38,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 to-blue-500 text-white px-4 py-2 rounded-md ml-8"
-                  href="udokaudodigweResume.pdf"
+                  href="resume.pdf"
                   target="_blank"
                 >
                   Resume
